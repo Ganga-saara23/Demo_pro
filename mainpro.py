@@ -5,5 +5,5 @@ st.title('Project title')
 with st.sidebar:
     selected = option_menu(
         menu_title='Project Title',
-        options=['Abstract','Task','System Requirements','Modules']
+        options=['Abstract','Company Profile','System Analysis','System Requirements','Tasks','Modules']
     )
